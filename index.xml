@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://vascoalvesxyz.github.io/blog/</link>
     <description>Recent content on blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 May 2025 23:30:46 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vascoalvesxyz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>a</title>
-      <link>http://localhost:1313/blog/articles/sigma/</link>
+      <title>Books are mostly useless</title>
+      <link>https://vascoalvesxyz.github.io/blog/articles/books-are-useless/</link>
       <pubDate>Wed, 14 May 2025 23:30:46 +0100</pubDate>
-      <guid>http://localhost:1313/blog/articles/sigma/</guid>
-      <description></description>
+      <guid>https://vascoalvesxyz.github.io/blog/articles/books-are-useless/</guid>
+      <description>&lt;p&gt;Despite the lack of reading that is to be expected of the digital age, we place books, information, knowledge, reason in general, on a high pedestal.&#xA;On pure philosophical first principle, I believe you shouldn&amp;rsquo;t immediately turn to a book, to a prompt, to a search; choosing instead to always prioritize yourself, your own judgement, instincts and reason: refining them whenever possible. To be always searching for knowledge and yet to be completely hostile to it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
